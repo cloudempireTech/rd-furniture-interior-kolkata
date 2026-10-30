@@ -1,0 +1,31 @@
+# R D FURNITURE & INTERIOR - Brand Identity & Design System
+
+## 1. Brand Concept & Ethos
+- Brand Name: R D Furniture & Interior (আর ডি ফার্নিচার & ইন্টেরিয়র)
+- Sector: Custom Wooden Furniture, Modular Kitchens, Designer Wardrobes & Home Interiors
+- Locality: 93, James Long Sarani, Gournagar, Thakurpukur, Kolkata, West Bengal 700063 (Near Brahmachari School)
+- Primary Phone & WhatsApp: +91 89814 62599 (Verified Google Listing & Sheet Contact)
+- Heritage: Established in 1978 — over 45+ years of master carpentry, bespoke joinery, and architectural interior execution in Kolkata.
+- Google Maps Rating: 4.9 Stars (214+ Online Ratings across Google & verified directories)
+- Architectural & Craft Ethos: Precision woodwork combining seasoned natural hardwoods (Teak, Sheesham, Mahogany) with sleek, modern European modular hardware, waterproof marine-grade ply, and bespoke laminate/acrylic finishes.
+
+## 2. Color Mood & Harmony (Strict Clean Modern Luxury - Strict Ban on Muddy Brown)
+- Pure Porcelain Canvas: #fbfbfd (Clean, bright, breathable modern foundation)
+- Crisp Pure White Surfaces: #ffffff (High-elevation card surfaces with layered soft drop-shadows)
+- Rich Royal Amber / Warm Honey Teak Accent: #d97706 / #b45309 (Warm golden oak/honey teak luxury accent, never dull or muddy)
+- Architectural Indigo / Midnight Navy: #0f172a / #1e293b (Deep contrast surfaces, structural trim & crisp typography)
+- Modern Frosted Glass Floating Navbar: rgba(255, 255, 255, 0.94) with 1px solid rgba(217, 119, 6, 0.22)
+- Official WhatsApp Green: #25D366 (High contrast on green buttons: white speech bubble + green phone handset)
+
+## 3. Core Portfolio Pillars
+1. Bespoke Bedroom Suites: Custom king and queen beds with hydraulic storage, upholstered headboards, bedside pedestals, and vanity units.
+2. Designer Modular Wardrobes: Floor-to-ceiling wardrobes, sliding door wardrobes, walk-in closets with sensor profile lighting, and custom laminate geometric patterns.
+3. Ergonomic Modular Kitchens: Marine-grade waterproof ply cabinets, acrylic/PU finishes, soft-close Blum/Hettich tandem boxes, spice pullouts, and durable granite/quartz countertops.
+4. Living Room & Entertainment Consoles: Wall-mounted floating TV units, ambient backlit louvers, room divider display shelves, and custom bar cabinets.
+5. Handcrafted Solid Wood Dining & Seating: Teak wood 6-seater dining sets, artisanal diwans, sofa-cum-beds with pullout drawers, and solid garden/verandah benches.
+6. Architectural Doors & Wood Panelling: Hand-carved spiritual and contemporary entrance doors, CNC brass inlay designs, and soundproof door frames.
+
+## 4. 16:9 Hero Video Summary
+- Video Location: assets/videos/hero.mp4
+- Poster Location: assets/images/hero-poster.jpg
+- Description: 16:9 cinematic landscape showcasing luxurious modern interior spaces with handcrafted teak furniture, sleek modular kitchen cabinetry, and ambient recessed lighting.
